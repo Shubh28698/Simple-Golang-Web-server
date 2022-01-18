@@ -4,8 +4,8 @@ Its a simple golang web server made by me to make my concepts & knowledge of gol
 
 ## Concepts learnt in the project
 
-✅net/http package
-✅Handlers
-✅Handlefunc
-✅http.ListenAndServe()
-✅http.FileServer
+<br>✅net/http package
+<br>✅Handlers
+<br>✅Handlefunc
+<br>✅http.ListenAndServe()
+<br>✅http.FileServer
